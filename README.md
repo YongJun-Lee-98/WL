@@ -1,2 +1,2 @@
-# TL
-Today Learn
+# WL
+Weekly Learn Summary
